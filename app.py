@@ -321,8 +321,8 @@ def combined_bio_upload():
     result = upload_bio_request(final_jwt, bio)
     
     response_data = {
-        "Credit": "@Itz_Jahid_X",
-        "Telegram:": " @Jahid_x_Empire",
+        "Credit": "@Toxicffleaksss",
+        "Telegram:": " @Toxicffleaksss",
         "status": result["status"],
         "login_method": login_method,
         "code": result["code"],
